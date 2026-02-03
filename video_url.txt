@@ -1,0 +1,5 @@
+Player URL:
+https://sagarcodesrezero.github.io/player/?list=https://raw.githubusercontent.com/sagarcodesrezero/bbf89dccb5e5c359/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/sagarcodesrezero/bbf89dccb5e5c359/refs/heads/master/github_master.m3u8
